@@ -1,0 +1,6 @@
+FUNCTION soma RETURNS INTEGER (a AS INTEGER, b AS INTEGER):
+    RETURN a + b.
+END FUNCTION.
+
+MESSAGE "Resultado: " soma(10, 5)
+    VIEW-AS ALERT-BOX.
