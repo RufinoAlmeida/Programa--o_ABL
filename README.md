@@ -33,9 +33,15 @@ Window viewer: Lista as janelas (Windows) atualmente instanciadas e em execuçã
 
 Windows info: Permite inspecionar os handles (ponteiros de memória) e atributos técnicos  detalhados de janelas abertas.
 
+Widget attr help: Um dicionário/ajuda rápida focado exclusivamente nas dezenas de atributos que um widget visual possui (como bgcolor, sensitive, hidden, etc.)
 
+Screen Scaling Utility: Ferramenta para ajudar a redimensionar janelas e layouts caso o sistema precise rodar em diferentes resoluções ou DPIs de monitor.
 
+# Gerenciamento de código e Automação de Testes
 
+Editor: Abre uma nova janela limpa do Procedure Editor, ideal para escrever rotinas cruas
+
+Procedures: Uma ferramenta de depuração muito útil que lista todas as"Persistent Procedures" programas que foram rodados e deixados ativos na memória. Permite destrui-los se necessário para limpar a memória.
 
 
 
